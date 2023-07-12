@@ -1,2 +1,2 @@
 # Health-app
-A responsive user interface for health improvment tips, exersice plan, and therapy sections.
+A responsive user interface for health improvement tips, exercise plan, and therapy sections.
